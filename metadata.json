@@ -1,0 +1,6 @@
+{
+  "name": "粉嫩藥盒 PillPal",
+  "description": "可愛粉嫩風的用藥管理 PWA：Phaser 藥櫃場景總覽、剩餘天數與餘量試算。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

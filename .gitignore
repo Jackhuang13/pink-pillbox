@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+dev-dist/
+coverage/
+.aistudio/
+.DS_Store
+*.log
+*.local
+.env*
+!.env.example
+
+# PWA 圖示由 prebuild 自動生成
+public/pwa-*.png
+public/maskable-icon-*.png
+public/apple-touch-icon-*.png
+public/favicon.ico
